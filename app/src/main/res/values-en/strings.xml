@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConvertidorDeMedidasDeLongitud</string>
+
+    <string name="screen_title">Length Measurement Converter</string><!-- TÍTULO DE MI APP-->
+    <string name="input_value_label">Enter the value</string><!-- CAJA DE TEXTO PARA INSERTAR EL VALOR QUE SE DESEA CONVERTIR-->
+    <string name="centimeters_label">Centimeters</string><!-- SELECCIONADOR PARA INFORMAR LA UNIDAD DE MEDIDA DEL VALOR INSERTADO: CENTIMETROS-->
+    <string name="inch_label">Inches</string><!-- SELECCIONADOR PARA INFORMAR LA UNIDAD DE MEDIDA DEL VALOR INSERTADO: PULGADAS-->
+    <string name="convert_label">Convert</string><!-- BOTÓN PARA EJECUTAR LA CONVERSIÓN-->
+
+    <string name="cm_to_inch_output">%s centimeters equal %s inches</string><!-- VALOR INSERTADO EN CENTÍMETROS Y CONVERTIDO A PULGADAS: %s para que el código permita definir esos valores después-->
+    <string name="inch_to_cm_output">%s inches equal %s centimeters</string><!-- VALOR INSERTADO EN PULGADAS Y CONVERTIDO A CENTÍMETROS: %s para que el código permita definir esos valores después-->
+</resources>
